@@ -24,7 +24,7 @@ pip install -r requirements.txt
 Create .env file
 
 ```env
-HF_API_KEY=your_token_here
+Groq_API_KEY=your_token_here
 ```
 
 ## Run
